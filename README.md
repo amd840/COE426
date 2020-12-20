@@ -1,11 +1,11 @@
-#COE426 Project
-#homomorphic-based text editor.
+# COE426 Project
+# homomorphic-based text editor.
 
-installation:
+# installation:
 	- Install app files
 	- Install python 3.8 or higher
 
-How to run the app
+# How to run the app
 	- Open terminal
 	- To open any file form the app use “python filename.py”
 	- In mac use “python3 “filename.py”
